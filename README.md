@@ -1,0 +1,1 @@
+# sdc_aws_base_docker_image
